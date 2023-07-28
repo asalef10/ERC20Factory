@@ -9,4 +9,3 @@ Welcome to the ERC20 Token Factory DApp. This decentralized application (DApp) p
 
 
 
-# ERC20Factory
