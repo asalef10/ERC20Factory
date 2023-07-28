@@ -6,6 +6,7 @@ Welcome to the ERC20 Token Factory DApp. This decentralized application (DApp) p
 
 * React UI: The user interface is built using React, a popular JavaScript library for building user interfaces. It provides a seamless experience for users to interact with the blockchain.
 
+![Architecture](https://github.com/asalef10/ERC20Factory/assets/76787292/152a43e3-bb1e-48a3-ae62-1d7a2a7528b7)
 
 
 
